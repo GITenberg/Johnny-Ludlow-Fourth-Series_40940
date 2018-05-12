@@ -1,0 +1,36 @@
+_repo: Johnny-Ludlow-Fourth-Series_40940
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40940-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wood, Henry, Mrs.
+    aliases:
+    - Wood, Ellen Price
+    - Price, Ellen
+    - Wood, Mrs. Henry
+    - Ludlow, Johnny
+    birthdate: 1814
+    deathdate: 1887
+    gutenberg_agent_id: '1177'
+    url: http://www.gutenberg.org/2009/agents/1177
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Wood_%28author%29
+description: ''
+gutenberg_issued: '2012-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40940'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+tableOfContents: A mystery -- Sandstone Torr -- Chandler and Chandler -- Verena Fontaine's
+  rebellion -- A curious experience -- Roger Bevere -- Ketira the gipsy -- The curate
+  of St. Matthew's -- Mrs. Cramp's tenant.
+title: Johnny Ludlow, Fourth Series
+url: http://www.gutenberg.org/ebooks/40940
